@@ -2,19 +2,19 @@
 
 @font-face {
     font-family: 'Cinzel';
-    src: url('../fontes/Cinzel/CinzelDecorative-Regular.otf') format('opentype');
+    src: url('/fontes/Cinzel/CinzelDecorative-Regular.otf') format('opentype');
     font-weight: normal;
 }
 
 @font-face {
     font-family: 'JonahAFYL';
-    src: url('../fontes/JonahAFYL-Light.ttf') format('truetype');
+    src: url('/fontes/JonahAFYL-Light.ttf') format('truetype');
     font-weight: noraml;
 }
 
 :root {
 
-    --preto1: #0f0e0e;
+    --preto1: #020202;
     --preto2: #0b0909;
     --preto3: #151515;
     --preto4: #201f1f;
@@ -114,7 +114,7 @@ li:hover {
 }
 
 header {
-    background-image: url('../imagens/fundoHeader.jpg');
+    background-image: url('/imagens/fundoHeader.jpg');
     background-size: cover;
     height: 85vh;
     background-position: center center;
@@ -167,7 +167,7 @@ header p {
     grid-area: foto1;
     background-size: cover;
     width: 100%;
-    background-image: url('../imagens/gridFotos/naturezaGridFotos.webp');
+    background-image: url('/imagens/gridFotos/naturezaGridFotos.webp');
     background-position: center center;
 }
 
@@ -175,7 +175,7 @@ header p {
     grid-area: foto2;
     background-size: cover;
     width: 100%;
-    background-image: url('../imagens/gridFotos/urbanaGrid.webp');
+    background-image: url('/imagens/gridFotos/urbanaGrid.webp');
     background-position: center center;
 }
 
@@ -183,7 +183,7 @@ header p {
     grid-area: foto3;
     background-size: cover;
     width: 100%;
-    background-image: url('../imagens/gridFotos/sombrasGrid.webp');
+    background-image: url('/imagens/gridFotos/sombrasGrid.webp');
     background-position: center;
 }
 
@@ -191,7 +191,7 @@ header p {
     grid-area: foto4;
     background-size: cover;
     width: 100%;
-    background-image: url('../imagens/gridFotos/grid.webp');
+    background-image: url('/imagens/gridFotos/grid.webp');
     background-position: center 85%;
 }
 
@@ -199,7 +199,7 @@ header p {
     grid-area: foto5;
     background-size: cover;
     width: 100%;
-    background-image: url('../imagens/gridFotos/praiaGrid.webp');
+    background-image: url('/imagens/gridFotos/praiaGrid.webp');
     background-position: center 40%;
 }
 
@@ -207,7 +207,7 @@ header p {
     grid-area: foto6;
     background-size: cover;
     width: 100%;
-    background-image: url('../imagens/gridFotos/pordoSolGrid.webp');
+    background-image: url('/imagens/gridFotos/pordoSolGrid.webp');
     background-position: center center;
 }
 
@@ -215,7 +215,7 @@ header p {
     grid-area: foto7;
     background-size: cover;
     width: 100%;
-    background-image: url('../imagens/gridFotos/longaExposicaoGrid.webp');
+    background-image: url('/imagens/gridFotos/longaExposicaoGrid.webp');
     background-position: center 40%;
 }
 
@@ -223,7 +223,7 @@ header p {
     grid-area: foto8;
     background-size: cover;
     width: 100%;
-    background-image: url('../imagens/gridFotos/ceuEstreladoFaixa.webp');
+    background-image: url('/imagens/gridFotos/ceuEstreladoFaixa.webp');
     background-position: center center;
 }
 
@@ -231,7 +231,7 @@ header p {
     grid-area: foto9;
     background-size: cover;
     width: 100%;
-    background-image: url('../imagens/gridFotos/florestaPretoPrancoGrid.webp');
+    background-image: url('/imagens/gridFotos/florestaPretoPrancoGrid.webp');
     background-position: center 70%;
 }
 
@@ -316,41 +316,41 @@ aside>h2 {
 }
 
 #fotoFaixa1 {
-    background-image: url('../imagens/instagramFaixa/florMacroFaixa.webp');
+    background-image: url('/imagens/instagramFaixa/florMacroFaixa.webp');
     background-size: cover;
     background-position: center center;
 }
 
 #fotoFaixa2 {
-    background-image: url('../imagens/instagramFaixa/florestaFaixa.webp');
+    background-image: url('/imagens/instagramFaixa/florestaFaixa.webp');
     background-size: cover;
     background-position: center center;
 
 }
 
 #fotoFaixa3 {
-    background-image: url('../imagens/instagramFaixa/ceuPraiaFaixa.jpg');
+    background-image: url('/imagens/instagramFaixa/ceuPraiaFaixa.jpg');
     background-size: cover;
     background-position: center center;
 
 }
 
 #fotoFaixa4 {
-    background-image: url('../imagens/instagramFaixa/rosaInstaFaixa.webp');
+    background-image: url('/imagens/instagramFaixa/rosaInstaFaixa.webp');
     background-size: cover;
     background-position: center center;
 
 }
 
 #fotoFaixa5 {
-    background-image: url('../imagens/instagramFaixa/universo.webp');
+    background-image: url('/imagens/instagramFaixa/universo.webp');
     background-size: cover;
     background-position: center center;
 
 }
 
 #fotoFaixa6 {
-    background-image: url('../imagens/instagramFaixa/pordoSolFaixa.webp');
+    background-image: url('/imagens/instagramFaixa/pordoSolFaixa.webp');
     background-size: cover;
     background-position: center center;
 
