@@ -1,6 +1,6 @@
 # Minhas-Fotos
 ## Status do Projeto: Em desenvolvimento :arrows_counterclockwise:
-Para acessar o projeto clique :arrow_right:<a href="https://mdv-tech.web.app/" target="_blank">aqui<a/>:arrow_left:
+Para acessar o projeto clique :arrow_right:<a href="https://minhasfotosmf.netlify.app/" target="_blank">aqui<a/>:arrow_left:
 ## Descrição do projeto 
 Minhas Fotos é uma junção de duas coisas que gosto muito, fotografia e programção, onde esponho as fotos tiradas por mim através de uma galeria utilizando grid-layout e flex-box.
 ![Captura de tela 2025-06-08 113122](https://github.com/user-attachments/assets/b1f1ce53-f8b5-4ab5-86a9-682b8c8c9605)
